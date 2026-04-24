@@ -1,0 +1,222 @@
+[
+  {
+    "id": "a-streetcar-named-desire",
+    "type": "play",
+    "title": "A Streetcar Named Desire",
+    "creator": "Tennessee Williams",
+    "year": "1947",
+    "description": "A fragile woman arrives in New Orleans and disrupts her sister’s marriage.",
+    "whyForActors": "Blanche DuBois is one of the most frequently performed roles in modern theatre.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "hamlet",
+    "type": "play",
+    "title": "Hamlet",
+    "creator": "William Shakespeare",
+    "year": "1603",
+    "description": "A prince returns home to grief, betrayal, and revenge.",
+    "whyForActors": "The role of Hamlet is often considered one of the longest in the Shakespeare canon.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-seagull",
+    "type": "play",
+    "title": "The Seagull",
+    "creator": "Anton Chekhov",
+    "year": "1896",
+    "description": "Artists, lovers, and families gather at a country estate.",
+    "whyForActors": "Characters frequently speak around what they mean rather than directly stating it.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-cherry-orchard",
+    "type": "play",
+    "title": "The Cherry Orchard",
+    "creator": "Anton Chekhov",
+    "year": "1904",
+    "description": "A family estate is sold as an old world begins to disappear.",
+    "whyForActors": "Chekhov described the play as a comedy despite its themes of loss.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "death-of-a-salesman",
+    "type": "play",
+    "title": "Death of a Salesman",
+    "creator": "Arthur Miller",
+    "year": "1949",
+    "description": "A salesman struggles with memory, expectation, and identity.",
+    "whyForActors": "The structure shifts between present action and memory sequences.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "long-days-journey-into-night",
+    "type": "play",
+    "title": "Long Day’s Journey Into Night",
+    "creator": "Eugene O’Neill",
+    "year": "1956",
+    "description": "A family confronts addiction, resentment, and the past over the course of a day.",
+    "whyForActors": "The play takes place in real time across a single day.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "who-s-afraid-of-virginia-woolf",
+    "type": "play",
+    "title": "Who’s Afraid of Virginia Woolf?",
+    "creator": "Edward Albee",
+    "year": "1962",
+    "description": "Two couples meet for drinks that extend into the early hours of the morning.",
+    "whyForActors": "The action unfolds continuously over one night.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "top-girls",
+    "type": "play",
+    "title": "Top Girls",
+    "creator": "Caryl Churchill",
+    "year": "1982",
+    "description": "A woman’s professional life intersects with historical and social perspectives.",
+    "whyForActors": "The opening scene features characters from different historical periods together.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-homecoming",
+    "type": "play",
+    "title": "The Homecoming",
+    "creator": "Harold Pinter",
+    "year": "1965",
+    "description": "A man returns home with his wife to his all-male family.",
+    "whyForActors": "Pinter’s writing is known for pauses and subtext-driven dialogue.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "a-doll-s-house",
+    "type": "play",
+    "title": "A Doll’s House",
+    "creator": "Henrik Ibsen",
+    "year": "1879",
+    "description": "A woman begins to question her role within her marriage and home.",
+    "whyForActors": "The final scene has been widely discussed and reinterpreted in modern theatre.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-glass-menagerie",
+    "type": "play",
+    "title": "The Glass Menagerie",
+    "creator": "Tennessee Williams",
+    "year": "1944",
+    "description": "A memory play about a family living in St. Louis.",
+    "whyForActors": "The narrator is also a character within the events of the play.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "waiting-for-godot",
+    "type": "play",
+    "title": "Waiting for Godot",
+    "creator": "Samuel Beckett",
+    "year": "1953",
+    "description": "Two figures wait by a tree for someone who never arrives.",
+    "whyForActors": "The structure repeats similar actions across both acts.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-crucible",
+    "type": "play",
+    "title": "The Crucible",
+    "creator": "Arthur Miller",
+    "year": "1953",
+    "description": "Accusations of witchcraft spread through a Puritan community.",
+    "whyForActors": "The play is often used as an allegory for political persecution.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "angels-in-america",
+    "type": "play",
+    "title": "Angels in America",
+    "creator": "Tony Kushner",
+    "year": "1991",
+    "description": "Multiple characters navigate identity, politics, and illness in America.",
+    "whyForActors": "Actors often play multiple roles across the production.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "jerusalem",
+    "type": "play",
+    "title": "Jerusalem",
+    "creator": "Jez Butterworth",
+    "year": "2009",
+    "description": "A charismatic outsider lives on the edge of a rural English community.",
+    "whyForActors": "The central character appears in nearly every scene.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "people-places-and-things",
+    "type": "play",
+    "title": "People, Places & Things",
+    "creator": "Duncan Macmillan",
+    "year": "2015",
+    "description": "An actor enters rehab and confronts addiction and identity.",
+    "whyForActors": "The play explores performance both on and off stage.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-curious-incident",
+    "type": "play",
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "creator": "Simon Stephens",
+    "year": "2012",
+    "description": "A boy investigates the death of a neighbour’s dog.",
+    "whyForActors": "The story is told from the perspective of the central character.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "constellations",
+    "type": "play",
+    "title": "Constellations",
+    "creator": "Nick Payne",
+    "year": "2012",
+    "description": "A relationship is explored across multiple possible realities.",
+    "whyForActors": "Scenes are repeated with slight variations throughout the play.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-effect",
+    "type": "play",
+    "title": "The Effect",
+    "creator": "Lucy Prebble",
+    "year": "2012",
+    "description": "Two participants in a clinical trial develop a relationship.",
+    "whyForActors": "Questions whether emotions are caused by chemistry or genuine feeling.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "yerma",
+    "type": "play",
+    "title": "Yerma",
+    "creator": "Federico García Lorca",
+    "year": "1934",
+    "description": "A woman’s desire for a child shapes her life and relationships.",
+    "whyForActors": "The play draws heavily on poetic and symbolic language.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  }
+]
