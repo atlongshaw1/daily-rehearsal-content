@@ -1,0 +1,274 @@
+{
+  "Casting Directors": [
+    {
+      "name": "Nina Gold",
+      "role": "Casting Director (UK)",
+      "credits": "The Crown, Game of Thrones, Star Wars",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Kharmel Cochrane",
+      "role": "Casting Director (UK)",
+      "credits": "Saltburn, Rye Lane, Top Boy",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Lucy Bevan",
+      "role": "Casting Director (UK)",
+      "credits": "The Batman, Cruella, Maleficent",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Shaheen Baig",
+      "role": "Casting Director (UK)",
+      "credits": "Peaky Blinders, Black Mirror",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Sarah Finn",
+      "role": "Casting Director (USA)",
+      "credits": "Marvel Cinematic Universe",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Francine Maisler",
+      "role": "Casting Director (USA)",
+      "credits": "Dune, The Revenant",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Avy Kaufman",
+      "role": "Casting Director (USA)",
+      "credits": "Brokeback Mountain, Life of Pi",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Mary Vernieu",
+      "role": "Casting Director (USA)",
+      "credits": "Knives Out, Looper",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Jennifer Venditti",
+      "role": "Casting Director (USA)",
+      "credits": "Euphoria, Uncut Gems",
+      "category": "Casting Directors"
+    },
+    {
+      "name": "Carmen Cuba",
+      "role": "Casting Director (USA)",
+      "credits": "Stranger Things, The Martian",
+      "category": "Casting Directors"
+    }
+  ],
+
+  "Film Directors": [
+    {
+      "name": "Greta Gerwig",
+      "role": "Director",
+      "credits": "Barbie, Little Women",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Christopher Nolan",
+      "role": "Director",
+      "credits": "Oppenheimer, Inception",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Emerald Fennell",
+      "role": "Director",
+      "credits": "Saltburn, Promising Young Woman",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Denis Villeneuve",
+      "role": "Director",
+      "credits": "Dune, Arrival",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Barry Jenkins",
+      "role": "Director",
+      "credits": "Moonlight",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Yorgos Lanthimos",
+      "role": "Director",
+      "credits": "Poor Things, The Favourite",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Céline Sciamma",
+      "role": "Director",
+      "credits": "Portrait of a Lady on Fire",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Jordan Peele",
+      "role": "Director",
+      "credits": "Get Out, Nope",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Andrea Arnold",
+      "role": "Director",
+      "credits": "Fish Tank, American Honey",
+      "category": "Film Directors"
+    },
+    {
+      "name": "Charlotte Wells",
+      "role": "Director",
+      "credits": "Aftersun",
+      "category": "Film Directors"
+    }
+  ],
+
+  "Theatre Directors": [
+    {
+      "name": "Jamie Lloyd",
+      "role": "Theatre Director",
+      "credits": "Sunset Boulevard, Cyrano de Bergerac",
+      "category": "Theatre Directors"
+    },
+    {
+      "name": "Marianne Elliott",
+      "role": "Theatre Director",
+      "credits": "War Horse, Company",
+      "category": "Theatre Directors"
+    },
+    {
+      "name": "Rebecca Frecknall",
+      "role": "Theatre Director",
+      "credits": "Cabaret, Streetcar",
+      "category": "Theatre Directors"
+    },
+    {
+      "name": "Ivo van Hove",
+      "role": "Theatre Director",
+      "credits": "Network, A View from the Bridge",
+      "category": "Theatre Directors"
+    },
+    {
+      "name": "Robert Icke",
+      "role": "Theatre Director",
+      "credits": "Hamlet, The Doctor",
+      "category": "Theatre Directors"
+    }
+  ],
+
+  "Video Game Industry": [
+    {
+      "name": "Neil Druckmann",
+      "role": "Creative Director",
+      "credits": "The Last of Us, Uncharted",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Hideo Kojima",
+      "role": "Director",
+      "credits": "Death Stranding, Metal Gear Solid",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Cory Barlog",
+      "role": "Director",
+      "credits": "God of War",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Amy Hennig",
+      "role": "Writer/Director",
+      "credits": "Uncharted series",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Sam Lake",
+      "role": "Creative Director",
+      "credits": "Alan Wake, Control",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Ashley Johnson",
+      "role": "Voice Actor",
+      "credits": "The Last of Us (Ellie)",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Laura Bailey",
+      "role": "Voice Actor",
+      "credits": "The Last of Us Part II, Uncharted",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Naughty Dog",
+      "role": "Studio",
+      "credits": "The Last of Us, Uncharted",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Santa Monica Studio",
+      "role": "Studio",
+      "credits": "God of War",
+      "category": "Video Game Industry"
+    },
+    {
+      "name": "Rockstar Games",
+      "role": "Studio",
+      "credits": "GTA, Red Dead Redemption",
+      "category": "Video Game Industry"
+    }
+  ],
+
+  "VoiceOver Industry": [
+    {
+      "name": "Andrea Romano",
+      "role": "Voice Director",
+      "credits": "Batman: The Animated Series",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Mary Hidalgo",
+      "role": "Casting Director",
+      "credits": "Pixar, Disney Animation",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Jennifer Hale",
+      "role": "Voice Actor",
+      "credits": "Mass Effect, Skyrim",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Troy Baker",
+      "role": "Voice Actor",
+      "credits": "The Last of Us, BioShock Infinite",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Nolan North",
+      "role": "Voice Actor",
+      "credits": "Uncharted, Assassin’s Creed",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Grey DeLisle",
+      "role": "Voice Actor",
+      "credits": "Avatar: The Last Airbender",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Tara Strong",
+      "role": "Voice Actor",
+      "credits": "DC Animation, My Little Pony",
+      "category": "VoiceOver Industry"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Voice Actor",
+      "credits": "Star Wars: The Clone Wars",
+      "category": "VoiceOver Industry"
+    }
+  ]
+}
