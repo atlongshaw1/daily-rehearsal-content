@@ -1,0 +1,57 @@
+[
+  {
+    "id": "blue-jasmine",
+    "type": "film",
+    "title": "Blue Jasmine",
+    "creator": "Woody Allen",
+    "year": "2013",
+    "description": "A former New York socialite tries to rebuild her life after everything falls apart.",
+    "whyForActors": "Sharp, elegant, and emotionally charged — a portrait of identity under pressure.",
+    "trainingFocus": ["identity", "reinvention", "emotion"],
+    "sourceUrl": "https://letterboxd.com/"
+  },
+  {
+    "id": "all-about-eve",
+    "type": "film",
+    "title": "All About Eve",
+    "creator": "Joseph L. Mankiewicz",
+    "year": "1950",
+    "description": "An ambitious young woman enters the orbit of a celebrated theatre star.",
+    "whyForActors": "Witty, theatrical, and deliciously observant about ambition and performance.",
+    "trainingFocus": ["ambition", "theatre", "status"],
+    "sourceUrl": "https://letterboxd.com/"
+  },
+  {
+    "id": "a-woman-under-the-influence",
+    "type": "film",
+    "title": "A Woman Under the Influence",
+    "creator": "John Cassavetes",
+    "year": "1974",
+    "description": "A woman’s inner world strains against the expectations of family and marriage.",
+    "whyForActors": "Raw, unpredictable, and deeply human.",
+    "trainingFocus": ["emotion", "family", "intimacy"],
+    "sourceUrl": "https://letterboxd.com/"
+  },
+  {
+    "id": "manchester-by-the-sea",
+    "type": "film",
+    "title": "Manchester by the Sea",
+    "creator": "Kenneth Lonergan",
+    "year": "2016",
+    "description": "A man returns home after a family tragedy and is forced to face his past.",
+    "whyForActors": "Quiet, devastating, and full of emotional restraint.",
+    "trainingFocus": ["grief", "restraint", "family"],
+    "sourceUrl": "https://letterboxd.com/"
+  },
+  {
+    "id": "portrait-of-a-lady-on-fire",
+    "type": "film",
+    "title": "Portrait of a Lady on Fire",
+    "creator": "Céline Sciamma",
+    "year": "2019",
+    "description": "An artist is commissioned to paint a young woman’s portrait before her arranged marriage.",
+    "whyForActors": "A luminous film about looking, longing, and what remains unspoken.",
+    "trainingFocus": ["desire", "silence", "connection"],
+    "sourceUrl": "https://letterboxd.com/"
+  }
+]
