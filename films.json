@@ -1,0 +1,392 @@
+[
+  {
+    "id": "blue-jasmine",
+    "type": "film",
+    "title": "Blue Jasmine",
+    "creator": "Woody Allen",
+    "year": "2013",
+    "description": "A former New York socialite tries to rebuild her life after everything falls apart.",
+    "whyForActors": "Cate Blanchett won the Academy Award for Best Actress for this role.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/blue-jasmine/"
+  },
+  {
+    "id": "all-about-eve",
+    "type": "film",
+    "title": "All About Eve",
+    "creator": "Joseph L. Mankiewicz",
+    "year": "1950",
+    "description": "An ambitious young woman enters the orbit of a celebrated theatre star.",
+    "whyForActors": "Bette Davis plays Margo Channing, a stage actress central to the story.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/all-about-eve/"
+  },
+  {
+    "id": "a-woman-under-the-influence",
+    "type": "film",
+    "title": "A Woman Under the Influence",
+    "creator": "John Cassavetes",
+    "year": "1974",
+    "description": "A woman’s inner world strains against the expectations of family and marriage.",
+    "whyForActors": "Gena Rowlands received an Academy Award nomination for this performance.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/a-woman-under-the-influence/"
+  },
+  {
+    "id": "manchester-by-the-sea",
+    "type": "film",
+    "title": "Manchester by the Sea",
+    "creator": "Kenneth Lonergan",
+    "year": "2016",
+    "description": "A man returns home after a family tragedy and is forced to face his past.",
+    "whyForActors": "Casey Affleck won the Academy Award for Best Actor for this role.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/manchester-by-the-sea/"
+  },
+  {
+    "id": "portrait-of-a-lady-on-fire",
+    "type": "film",
+    "title": "Portrait of a Lady on Fire",
+    "creator": "Céline Sciamma",
+    "year": "2019",
+    "description": "An artist is commissioned to paint a young woman’s portrait.",
+    "whyForActors": "Notice how much of the interaction is carried through silence and eye contact.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/"
+  },
+  {
+    "id": "black-swan",
+    "type": "film",
+    "title": "Black Swan",
+    "creator": "Darren Aronofsky",
+    "year": "2010",
+    "description": "A dancer’s pursuit of perfection begins to blur reality.",
+    "whyForActors": "Natalie Portman won the Academy Award for Best Actress.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/black-swan/"
+  },
+  {
+    "id": "there-will-be-blood",
+    "type": "film",
+    "title": "There Will Be Blood",
+    "creator": "Paul Thomas Anderson",
+    "year": "2007",
+    "description": "An oilman’s rise to power in early California.",
+    "whyForActors": "Daniel Day-Lewis won the Academy Award for Best Actor.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/there-will-be-blood/"
+  },
+  {
+    "id": "moonlight",
+    "type": "film",
+    "title": "Moonlight",
+    "creator": "Barry Jenkins",
+    "year": "2016",
+    "description": "A young man’s life is explored across three stages.",
+    "whyForActors": "The central character is portrayed by three actors.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/moonlight-2016/"
+  },
+  {
+    "id": "lady-bird",
+    "type": "film",
+    "title": "Lady Bird",
+    "creator": "Greta Gerwig",
+    "year": "2017",
+    "description": "A teenager navigates relationships and identity.",
+    "whyForActors": "Saoirse Ronan received an Academy Award nomination.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/lady-bird/"
+  },
+  {
+    "id": "the-favourite",
+    "type": "film",
+    "title": "The Favourite",
+    "creator": "Yorgos Lanthimos",
+    "year": "2018",
+    "description": "A power struggle unfolds in Queen Anne’s court.",
+    "whyForActors": "Olivia Colman won the Academy Award for Best Actress.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-favourite-2018/"
+  },
+
+  {
+    "id": "call-me-by-your-name",
+    "type": "film",
+    "title": "Call Me by Your Name",
+    "creator": "Luca Guadagnino",
+    "year": "2017",
+    "description": "A summer relationship unfolds in Northern Italy.",
+    "whyForActors": "The story focuses on a single relationship over time.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/call-me-by-your-name/"
+  },
+  {
+    "id": "the-social-network",
+    "type": "film",
+    "title": "The Social Network",
+    "creator": "David Fincher",
+    "year": "2010",
+    "description": "The founding of Facebook and the disputes that followed.",
+    "whyForActors": "Known for fast-paced and overlapping dialogue.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-social-network/"
+  },
+  {
+    "id": "room",
+    "type": "film",
+    "title": "Room",
+    "creator": "Lenny Abrahamson",
+    "year": "2015",
+    "description": "A mother and child adjust to life after captivity.",
+    "whyForActors": "Brie Larson won the Academy Award for Best Actress.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/room-2015/"
+  },
+  {
+    "id": "her",
+    "type": "film",
+    "title": "Her",
+    "creator": "Spike Jonze",
+    "year": "2013",
+    "description": "A man develops a relationship with an AI system.",
+    "whyForActors": "The central relationship involves an unseen character.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/her/"
+  },
+  {
+    "id": "whiplash",
+    "type": "film",
+    "title": "Whiplash",
+    "creator": "Damien Chazelle",
+    "year": "2014",
+    "description": "A young drummer trains under an intense instructor.",
+    "whyForActors": "Focuses on a demanding mentor-student relationship.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/whiplash-2014/"
+  },
+
+  {
+    "id": "lost-in-translation",
+    "type": "film",
+    "title": "Lost in Translation",
+    "creator": "Sofia Coppola",
+    "year": "2003",
+    "description": "Two strangers form a connection in Tokyo.",
+    "whyForActors": "Much of the story unfolds through quiet interactions.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/lost-in-translation/"
+  },
+  {
+    "id": "before-sunrise",
+    "type": "film",
+    "title": "Before Sunrise",
+    "creator": "Richard Linklater",
+    "year": "1995",
+    "description": "Two strangers meet and spend a night in Vienna.",
+    "whyForActors": "The film is driven almost entirely by conversation.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/before-sunrise/"
+  },
+  {
+    "id": "before-sunset",
+    "type": "film",
+    "title": "Before Sunset",
+    "creator": "Richard Linklater",
+    "year": "2004",
+    "description": "Two people reunite years after their first meeting.",
+    "whyForActors": "Takes place in real time over a single afternoon.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/before-sunset/"
+  },
+  {
+    "id": "before-midnight",
+    "type": "film",
+    "title": "Before Midnight",
+    "creator": "Richard Linklater",
+    "year": "2013",
+    "description": "A couple reflects on their relationship years later.",
+    "whyForActors": "Focuses on long-form relationship dynamics.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/before-midnight/"
+  },
+  {
+    "id": "marriage-story",
+    "type": "film",
+    "title": "Marriage Story",
+    "creator": "Noah Baumbach",
+    "year": "2019",
+    "description": "A couple navigates separation and family life.",
+    "whyForActors": "Features extended two-person scenes.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/marriage-story/"
+  },
+
+  {
+    "id": "the-piano",
+    "type": "film",
+    "title": "The Piano",
+    "creator": "Jane Campion",
+    "year": "1993",
+    "description": "A woman communicates through her piano in a new land.",
+    "whyForActors": "The lead character does not speak for most of the film.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-piano/"
+  },
+  {
+    "id": "fences",
+    "type": "film",
+    "title": "Fences",
+    "creator": "Denzel Washington",
+    "year": "2016",
+    "description": "A working-class family navigates life in 1950s Pittsburgh.",
+    "whyForActors": "Adapted from August Wilson’s stage play.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/fences-2016/"
+  },
+  {
+    "id": "doubt",
+    "type": "film",
+    "title": "Doubt",
+    "creator": "John Patrick Shanley",
+    "year": "2008",
+    "description": "A nun confronts a priest over a suspicion.",
+    "whyForActors": "The story is built around uncertainty rather than resolution.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/doubt/"
+  },
+  {
+    "id": "the-reader",
+    "type": "film",
+    "title": "The Reader",
+    "creator": "Stephen Daldry",
+    "year": "2008",
+    "description": "A young man reflects on a past relationship.",
+    "whyForActors": "Kate Winslet won the Academy Award for Best Actress.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-reader/"
+  },
+  {
+    "id": "atonement",
+    "type": "film",
+    "title": "Atonement",
+    "creator": "Joe Wright",
+    "year": "2007",
+    "description": "A misunderstanding changes the course of multiple lives.",
+    "whyForActors": "The story spans multiple time periods.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/atonement/"
+  },
+
+  {
+    "id": "the-talented-mr-ripley",
+    "type": "film",
+    "title": "The Talented Mr. Ripley",
+    "creator": "Anthony Minghella",
+    "year": "1999",
+    "description": "A young man becomes entangled in a wealthy social circle.",
+    "whyForActors": "Focuses on identity and imitation.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-talented-mr-ripley/"
+  },
+  {
+    "id": "parasite",
+    "type": "film",
+    "title": "Parasite",
+    "creator": "Bong Joon-ho",
+    "year": "2019",
+    "description": "Two families become intertwined in unexpected ways.",
+    "whyForActors": "Won the Academy Award for Best Picture.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/parasite-2019/"
+  },
+  {
+    "id": "joker",
+    "type": "film",
+    "title": "Joker",
+    "creator": "Todd Phillips",
+    "year": "2019",
+    "description": "A man’s descent into isolation and notoriety.",
+    "whyForActors": "Joaquin Phoenix won the Academy Award for Best Actor.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/joker-2019/"
+  },
+  {
+    "id": "silver-linings-playbook",
+    "type": "film",
+    "title": "Silver Linings Playbook",
+    "creator": "David O. Russell",
+    "year": "2012",
+    "description": "Two people form an unexpected connection.",
+    "whyForActors": "Jennifer Lawrence won the Academy Award for Best Actress.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/silver-linings-playbook/"
+  },
+  {
+    "id": "the-king-s-speech",
+    "type": "film",
+    "title": "The King’s Speech",
+    "creator": "Tom Hooper",
+    "year": "2010",
+    "description": "A king works to overcome a speech impediment.",
+    "whyForActors": "Colin Firth won the Academy Award for Best Actor.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-kings-speech/"
+  },
+
+  {
+    "id": "little-women",
+    "type": "film",
+    "title": "Little Women",
+    "creator": "Greta Gerwig",
+    "year": "2019",
+    "description": "The lives of four sisters unfold across time.",
+    "whyForActors": "The narrative moves between different time periods.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/little-women-2019/"
+  },
+  {
+    "id": "brooklyn",
+    "type": "film",
+    "title": "Brooklyn",
+    "creator": "John Crowley",
+    "year": "2015",
+    "description": "A young woman emigrates from Ireland to New York.",
+    "whyForActors": "Saoirse Ronan received an Academy Award nomination.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/brooklyn/"
+  },
+  {
+    "id": "the-shape-of-water",
+    "type": "film",
+    "title": "The Shape of Water",
+    "creator": "Guillermo del Toro",
+    "year": "2017",
+    "description": "A mute woman forms a connection with a mysterious creature.",
+    "whyForActors": "Won the Academy Award for Best Picture.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/the-shape-of-water/"
+  },
+  {
+    "id": "nocturnal-animals",
+    "type": "film",
+    "title": "Nocturnal Animals",
+    "creator": "Tom Ford",
+    "year": "2016",
+    "description": "A woman reads a manuscript that mirrors her past.",
+    "whyForActors": "The story moves between reality and fiction.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/nocturnal-animals/"
+  },
+  {
+    "id": "drive",
+    "type": "film",
+    "title": "Drive",
+    "creator": "Nicolas Winding Refn",
+    "year": "2011",
+    "description": "A driver becomes involved in a dangerous situation.",
+    "whyForActors": "The central character speaks very little.",
+    "trainingFocus": [],
+    "sourceUrl": "https://letterboxd.com/film/drive-2011/"
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "a-streetcar-named-desire",
+    "type": "play",
+    "title": "A Streetcar Named Desire",
+    "creator": "Tennessee Williams",
+    "year": "1947",
+    "description": "A fragile woman arrives in New Orleans and disrupts her sister’s marriage.",
+    "whyForActors": "Blanche DuBois is one of the most frequently performed roles in modern theatre.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "hamlet",
+    "type": "play",
+    "title": "Hamlet",
+    "creator": "William Shakespeare",
+    "year": "1603",
+    "description": "A prince returns home to grief, betrayal, and revenge.",
+    "whyForActors": "The role of Hamlet is one of the longest in the Shakespeare canon.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-seagull",
+    "type": "play",
+    "title": "The Seagull",
+    "creator": "Anton Chekhov",
+    "year": "1896",
+    "description": "Artists, lovers, and families gather at a country estate.",
+    "whyForActors": "Characters frequently speak indirectly rather than stating intentions clearly.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-cherry-orchard",
+    "type": "play",
+    "title": "The Cherry Orchard",
+    "creator": "Anton Chekhov",
+    "year": "1904",
+    "description": "A family estate is sold as social change takes hold.",
+    "whyForActors": "Chekhov described the play as a comedy despite its themes of loss.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "death-of-a-salesman",
+    "type": "play",
+    "title": "Death of a Salesman",
+    "creator": "Arthur Miller",
+    "year": "1949",
+    "description": "A salesman reflects on his life and expectations.",
+    "whyForActors": "The play moves between present action and memory sequences.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+
+  {
+    "id": "long-days-journey-into-night",
+    "type": "play",
+    "title": "Long Day’s Journey Into Night",
+    "creator": "Eugene O’Neill",
+    "year": "1956",
+    "description": "A family confronts addiction and the past over a single day.",
+    "whyForActors": "The entire play unfolds across one continuous day.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "whos-afraid-of-virginia-woolf",
+    "type": "play",
+    "title": "Who’s Afraid of Virginia Woolf?",
+    "creator": "Edward Albee",
+    "year": "1962",
+    "description": "Two couples meet late at night and continue into the early hours.",
+    "whyForActors": "The action takes place in real time over one night.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "top-girls",
+    "type": "play",
+    "title": "Top Girls",
+    "creator": "Caryl Churchill",
+    "year": "1982",
+    "description": "A woman’s career intersects with historical and social perspectives.",
+    "whyForActors": "The opening scene includes characters from different time periods.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-homecoming",
+    "type": "play",
+    "title": "The Homecoming",
+    "creator": "Harold Pinter",
+    "year": "1965",
+    "description": "A man returns home with his wife to his family.",
+    "whyForActors": "Pinter’s writing is known for pauses and silence.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "a-dolls-house",
+    "type": "play",
+    "title": "A Doll’s House",
+    "creator": "Henrik Ibsen",
+    "year": "1879",
+    "description": "A woman questions her place in her marriage.",
+    "whyForActors": "The final scene has been widely discussed and reinterpreted.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+
+  {
+    "id": "the-glass-menagerie",
+    "type": "play",
+    "title": "The Glass Menagerie",
+    "creator": "Tennessee Williams",
+    "year": "1944",
+    "description": "A memory play about a family in St. Louis.",
+    "whyForActors": "The narrator is also part of the action.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "waiting-for-godot",
+    "type": "play",
+    "title": "Waiting for Godot",
+    "creator": "Samuel Beckett",
+    "year": "1953",
+    "description": "Two figures wait for someone who never arrives.",
+    "whyForActors": "The structure repeats similar events across both acts.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-crucible",
+    "type": "play",
+    "title": "The Crucible",
+    "creator": "Arthur Miller",
+    "year": "1953",
+    "description": "Accusations spread through a Puritan community.",
+    "whyForActors": "Often staged as an allegory for political persecution.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "angels-in-america",
+    "type": "play",
+    "title": "Angels in America",
+    "creator": "Tony Kushner",
+    "year": "1991",
+    "description": "Multiple characters navigate identity and politics.",
+    "whyForActors": "Actors often play multiple roles.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "jerusalem",
+    "type": "play",
+    "title": "Jerusalem",
+    "creator": "Jez Butterworth",
+    "year": "2009",
+    "description": "A man lives on the edge of a rural community.",
+    "whyForActors": "The central character appears in most scenes.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+
+  {
+    "id": "people-places-and-things",
+    "type": "play",
+    "title": "People, Places & Things",
+    "creator": "Duncan Macmillan",
+    "year": "2015",
+    "description": "An actor enters rehab and confronts addiction.",
+    "whyForActors": "Explores performance within everyday life.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "constellations",
+    "type": "play",
+    "title": "Constellations",
+    "creator": "Nick Payne",
+    "year": "2012",
+    "description": "A relationship unfolds across multiple possibilities.",
+    "whyForActors": "Scenes are repeated with variations.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-effect",
+    "type": "play",
+    "title": "The Effect",
+    "creator": "Lucy Prebble",
+    "year": "2012",
+    "description": "Participants in a trial form a relationship.",
+    "whyForActors": "Questions the source of emotion.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "yerma",
+    "type": "play",
+    "title": "Yerma",
+    "creator": "Federico García Lorca",
+    "year": "1934",
+    "description": "A woman’s desire for a child shapes her life.",
+    "whyForActors": "The language is highly poetic and symbolic.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "rosencrantz-and-guildenstern",
+    "type": "play",
+    "title": "Rosencrantz and Guildenstern Are Dead",
+    "creator": "Tom Stoppard",
+    "year": "1966",
+    "description": "Two minor characters from Hamlet take centre stage.",
+    "whyForActors": "Reframes events from another play.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+
+  {
+    "id": "the-history-boys",
+    "type": "play",
+    "title": "The History Boys",
+    "creator": "Alan Bennett",
+    "year": "2004",
+    "description": "Students prepare for university entrance exams.",
+    "whyForActors": "Features an ensemble cast of students and teachers.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "one-man-two-guvnors",
+    "type": "play",
+    "title": "One Man, Two Guvnors",
+    "creator": "Richard Bean",
+    "year": "2011",
+    "description": "A man attempts to serve two employers at once.",
+    "whyForActors": "Includes elements of physical comedy and audience interaction.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-nightingale-and-the-rose",
+    "type": "play",
+    "title": "The Nightingale and the Rose",
+    "creator": "Oscar Wilde",
+    "year": "1888",
+    "description": "A story of love, sacrifice, and misunderstanding.",
+    "whyForActors": "Often adapted into different theatrical forms.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "blood-wedding",
+    "type": "play",
+    "title": "Blood Wedding",
+    "creator": "Federico García Lorca",
+    "year": "1933",
+    "description": "A wedding leads to conflict and tragedy.",
+    "whyForActors": "Combines realism with symbolic elements.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-maids",
+    "type": "play",
+    "title": "The Maids",
+    "creator": "Jean Genet",
+    "year": "1947",
+    "description": "Two maids role-play scenarios involving their employer.",
+    "whyForActors": "Explores identity through role-playing.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+
+  {
+    "id": "hedda-gabler",
+    "type": "play",
+    "title": "Hedda Gabler",
+    "creator": "Henrik Ibsen",
+    "year": "1891",
+    "description": "A woman navigates power and control within her marriage.",
+    "whyForActors": "The title role is central to most scenes.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "miss-julie",
+    "type": "play",
+    "title": "Miss Julie",
+    "creator": "August Strindberg",
+    "year": "1888",
+    "description": "A relationship develops across class boundaries.",
+    "whyForActors": "Often performed with a small cast.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "the-importance-of-being-earnest",
+    "type": "play",
+    "title": "The Importance of Being Earnest",
+    "creator": "Oscar Wilde",
+    "year": "1895",
+    "description": "Two men create false identities.",
+    "whyForActors": "Known for its use of wit and language.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "arcadia",
+    "type": "play",
+    "title": "Arcadia",
+    "creator": "Tom Stoppard",
+    "year": "1993",
+    "description": "Two timelines intersect in the same house.",
+    "whyForActors": "Moves between past and present scenes.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  },
+  {
+    "id": "blasted",
+    "type": "play",
+    "title": "Blasted",
+    "creator": "Sarah Kane",
+    "year": "1995",
+    "description": "A hotel room setting expands into a wider conflict.",
+    "whyForActors": "The play shifts dramatically in tone and scale.",
+    "trainingFocus": [],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  }
+]
