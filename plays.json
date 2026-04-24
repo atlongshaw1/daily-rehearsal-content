@@ -1,0 +1,13 @@
+[
+  {
+    "id": "streetcar",
+    "type": "play",
+    "title": "A Streetcar Named Desire",
+    "creator": "Tennessee Williams",
+    "year": "1947",
+    "description": "A fragile woman’s world collapses under pressure in New Orleans.",
+    "whyForActors": "Brilliant for emotional volatility, status shifts, and grounded realism.",
+    "trainingFocus": ["emotional range", "status", "realism"],
+    "sourceUrl": "https://www.dramaonlinelibrary.com/"
+  }
+]
